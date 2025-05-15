@@ -1,5 +1,6 @@
-class Demo{
-public static void main(String args[]){
-int a=10;
+public class Demo{
+	public static void main(String args[]){
+              String s="hello chanadana"
+              System.out.println(s)
 }
 }
